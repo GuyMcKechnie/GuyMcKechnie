@@ -8,11 +8,11 @@ I'm passionate about coding, building communities, and sharing knowledge with ot
 
 🔧 **Technologies I work with:**
 
-- JavaScript
-- Java
-- HTML
-- CSS
-- Python
+- 🟢 Java
+- 🟢 HTML
+- 🟢 CSS
+- 🟢 Python
+- 🟠 Javascript
 - Smaller languages such as XML and JSON for game modding
 - Git & GitHub
 - Various APIs
