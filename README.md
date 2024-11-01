@@ -12,6 +12,8 @@ I'm passionate about coding, building communities, and sharing knowledge with ot
 - 🟢 HTML
 - 🟢 CSS
 - 🟢 Python
+- 🟢 React
+- 🟢 Tailwind
 - 🟠 Javascript
 - Smaller languages such as XML and JSON for game modding
 - Git & GitHub
