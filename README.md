@@ -1,25 +1,54 @@
 <div align="center">
   <div>
-    <h1>Guy McKechnie | Software Developer</h1>
-    <img src="https://raw.githubusercontent.com/GuyMcKechnie/GuyMcKechnie/refs/heads/main/e426702edf874b181aced1e2fa5c6cde.gif" alt="programmer coding gif"/>
+    <img height=64 src="https://img.shields.io/badge/Guy McKechnie-12100E?style=for-the-badge">
+    <img height=64 src="https://img.shields.io/badge/Software Developer-blue?style=for-the-badge">
+    <img src="https://github.com/GuyMcKechnie/GuyMcKechnie/blob/main/ezgif.com-animated-gif-maker.gif?raw=true" alt="pixel city gif"/>
   </div>
 
-  <div>
-    <h2 align="left" >My Stack</h1>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,figma,py,java,js,html,css,react,tailwind,bootstrap,redux,nodejs" />
-    </a>
-  </div>
+  ***
 
   <div align="left">
-    <h2>My Projects</h2>
-    <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Discord">
+    <h2>
+    <img height=64 src="https://github.com/ionic-team/ionicons/blob/main/src/svg/menu.svg" alt="menu svg"/>
+    <img height=64 src="https://img.shields.io/badge/My Stack-12100E?style=for-the-badge">
+    </h2>
+    <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=12100E">
+    <img src="https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=figma&logoColor=12100E">
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=12100E">
+    <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=buymeacoffee&logoColor=12100E">
+    <img src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=12100E">
+    <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=12100E">
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=12100E">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=12100E">
+    <img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=12100E">
+    <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=12100E">
+    <img src="https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux&logoColor=12100E">
+    <img src="https://img.shields.io/badge/NodeJS-blue?style=for-the-badge&logo=nodedotjs&logoColor=12100E">
+  </div>
+
+  ***
+
+  <div align="left">
+    <h2>
+    <img height=64 src="https://github.com/ionic-team/ionicons/blob/main/src/svg/code.svg" alt="code svg"/>
+    <img height=64 src="https://img.shields.io/badge/Featured Projects-12100E?style=for-the-badge">
+    </h2>
+    <div>
+      <a href="https://github.com/GuyMcKechnie/Saddu">
+    <img src="https://img.shields.io/badge/Large Scale Discord Bot-12100E?style=for-the-badge&logo=python&logoColor=blue&logoSize=64">
+        </a>
+      <p>My first ever project. It is a huge discord bot that boasts many, many features that took me around 6 months to complete. I created it for my Discord community of 200 members.</p>
+      </div>
+    <div>
+      <a href="https://github.com/GuyMcKechnie/TheBibleApp.github.io">
+    <img height=64 src="https://img.shields.io/badge/Large Scale Discord Bot-12100E?style=for-the-badge&logo=python&logoColor=blue&logoSize=64">
+        </a>
+      <p>A project that is used most often by the world. This is the hub for my community that includes various social media links to all the different platforms we are on. This community is a catalyst to many of the projects in my portfolio including a web scraper that automatically updates the contents of this project.</p>
+      </div>
   </div>
 </div>
 
-# 💫 About Me
-
-Welcome to My GitHub Profile Repository! 👋<br>Hey there! I'm excited to share my personal projects, thoughts, and contributions with you. This repository is where you'll find everything about my journey as a developer and content creator.<br><br>🚀 About Me<br>I'm passionate about coding, building communities, and sharing knowledge with others. My GitHub profile is where I keep track of my open-source projects, collaborations, and anything cool I’m working on.<br><br>📌 Featured Projects<br>Here are a few highlights from my work:<br><br>🤳 Large-Scale Discord Bot (Python)<br>My first ever project. It is a huge discord bot that boasts many, many features that took me around 6 months to complete. I created it for my Discord community of 200 members.<br><br>💻 Community Hub Website (HTML/CSS/JS)<br>A project that is used most often by the world. This is the hub for my community that includes various social media links to all the different platforms we are on. This community is a catalyst to many of the projects in my portfolio including a web scraper that automatically updates the contents of this project. You can find out more about that project here.<br><br>🏥 Full Hospital Application (Java)<br>Used as my project for my final application for a school assignment. This is a fully fledged hospital management application built in Java. It has database management, visuals, and plenty of features.<br><br>🌱 Always Learning<br>I'm constantly exploring new technologies and ways to make an impact in the digital space. Have ideas or want to collaborate? Feel free to reach out!
+💻 Community Hub Website (HTML/CSS/JS)<br>A project that is used most often by the world. This is the hub for my community that includes various social media links to all the different platforms we are on. This community is a catalyst to many of the projects in my portfolio including a web scraper that automatically updates the contents of this project. You can find out more about that project here.<br><br>🏥 Full Hospital Application (Java)<br>Used as my project for my final application for a school assignment. This is a fully fledged hospital management application built in Java. It has database management, visuals, and plenty of features.<br><br>🌱 Always Learning<br>I'm constantly exploring new technologies and ways to make an impact in the digital space. Have ideas or want to collaborate? Feel free to reach out!
 
 ## 🌐 Socials
 
