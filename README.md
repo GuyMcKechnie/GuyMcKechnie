@@ -35,19 +35,19 @@
     </h2>
     <div>
       <a href="https://github.com/GuyMcKechnie/Saddu">
-    <img src="https://img.shields.io/badge/Large Scale Discord Bot-blue?style=for-the-badge&logo=python&logoColor=12100E&logoSize=64">
+    <img height=32 src="https://img.shields.io/badge/Large Scale Discord Bot-blue?style=for-the-badge&logo=python&logoColor=12100E&logoSize=64">
         </a>
       <p>My first ever project. It is a huge discord bot that boasts many, many features that took me around 6 months to complete. I created it for my Discord community of 200 members.</p>
       </div>
     <div>
       <a href="https://github.com/GuyMcKechnie/TheBibleApp.github.io">
-    <img src="https://img.shields.io/badge/The Bible Hub Landing Page-blue?style=for-the-badge&logo=react&logoColor=12100E&logoSize=64">
+    <img height=32 src="https://img.shields.io/badge/The Bible Hub Landing Page-blue?style=for-the-badge&logo=react&logoColor=12100E&logoSize=64">
         </a>
       <p>A project that is used most often by the world. This is the hub for my community that includes various social media links to all the different platforms we are on. This community is a catalyst to many of the projects in my portfolio including a web scraper that automatically updates the contents of this project.</p>
       </div>
     <div>
       <a href="https://github.com/GuyMcKechnie/TheBibleApp.github.io">
-    <img src="https://img.shields.io/badge/Hospital Management System-blue?style=for-the-badge&logo=react&logoColor=12100E&logoSize=64">
+    <img height=32 src="https://img.shields.io/badge/Hospital Management System-blue?style=for-the-badge&logo=react&logoColor=12100E&logoSize=64">
         </a>
       <p>Used as my project for my final application for a school assignment. This is a fully fledged hospital management application built in Java. It has database management, visuals, and plenty of features.</p>
       </div>
@@ -61,16 +61,16 @@
     <img height=64 src="https://img.shields.io/badge/Socials-12100E?style=for-the-badge">
     </h2>
     <a href="https://facebook.com/guy.j.mckechnie">
-    <img src="https://img.shields.io/badge/Facebook-blue.svg?logo=Facebook&logoColor=12100E"/>
+    <img src="https://img.shields.io/badge/Facebook-blue.svg?style=for-the-badge&logo=Facebook&logoColor=12100E"/>
     </a>
     <a href="https://instagram.com/guy.j.mckechnie">
-    <img src="https://img.shields.io/badge/Instagram-blue.svg?logo=Instagram&logoColor=12100E"/>
+    <img src="https://img.shields.io/badge/Instagram-blue.svg?style=for-the-badge&logo=Instagram&logoColor=12100E"/>
     </a>
     <a href="https://linkedin.com/in/guymckechnie">
-    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=12100E"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=12100E"/>
     </a>
     <a href="https://youtube.com/@GuyMcKechnie">
-    <img src="https://img.shields.io/badge/YouTube-blue.svg?logo=YouTube&logoColor=12100E"/>
+    <img src="https://img.shields.io/badge/YouTube-blue.svg?style=for-the-badge&logo=YouTube&logoColor=12100E"/>
     </a>
   </div>
 
