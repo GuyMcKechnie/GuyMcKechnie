@@ -22,8 +22,6 @@
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=12100E">
     <img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=12100E">
     <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=12100E">
-    <img src="https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux&logoColor=12100E">
-    <img src="https://img.shields.io/badge/NodeJS-blue?style=for-the-badge&logo=nodedotjs&logoColor=12100E">
   </div>
 
 ---
