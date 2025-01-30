@@ -74,13 +74,4 @@
     </a>
   </div>
 
----
-
-  <div align="left">
-  <h2>
-    <img height=64 src="https://github.com/ionic-team/ionicons/blob/main/src/svg/logo-github.svg" alt="github svg"/>
-    <img height=64 src="https://img.shields.io/badge/GitHub Stats-12100E?style=for-the-badge">
-    </h2>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guymckechnie&theme=dark&hide_border=false"></img>
-  </div>
 </div>
