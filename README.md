@@ -35,7 +35,7 @@
       <a href="https://github.com/GuyMcKechnie/Saddu">
     <img height=32 src="https://img.shields.io/badge/Large Scale Discord Bot-blue?style=for-the-badge&logo=python&logoColor=12100E&logoSize=64">
         </a>
-      <p>My first ever project. It is a huge discord bot that boasts many, many features that took me around 6 months to complete. I created it for my Discord community of 200 members.</p>
+      <p>My first ever project, built in Python. It is a huge discord bot that boasts many, many features that took me around 6 months to complete. I created it for my Discord community of 200 members.</p>
       </div>
     <div>
       <a href="https://github.com/GuyMcKechnie/TheBibleApp.github.io">
@@ -44,10 +44,22 @@
       <p>A project that is used most often by the world. This is the hub for my community that includes various social media links to all the different platforms we are on. This community is a catalyst to many of the projects in my portfolio including a web scraper that automatically updates the contents of this project.</p>
       </div>
     <div>
-      <a href="https://github.com/GuyMcKechnie/TheBibleApp.github.io">
-    <img height=32 src="https://img.shields.io/badge/Hospital Management System-blue?style=for-the-badge&logo=react&logoColor=12100E&logoSize=64">
+      <a href="https://github.com/GuyMcKechnie/HospitalApplication">
+    <img height=32 src="https://img.shields.io/badge/Hospital Management System-blue?style=for-the-badge&logo=buymeacoffee&logoColor=12100E&logoSize=64">
         </a>
       <p>Used as my project for my final application for a school assignment. This is a fully fledged hospital management application built in Java. It has database management, visuals, and plenty of features.</p>
+      </div>
+    <div>
+      <a href="https://github.com/GuyMcKechnie/Library-Management-System">
+    <img height=32 src="https://img.shields.io/badge/Library Management System-blue?style=for-the-badge&logo=buymeacoffee&logoColor=12100E&logoSize=64">
+        </a>
+      <p>Similarly, this project was used for school incentives and is built using Java. It boasts a CRUD management system allowing (multiple) users to add and remove data from a database.</p>
+      </div>
+    <div>
+      <a href="https://github.com/GuyMcKechnie/BooklidioEcommerceStore">
+    <img height=32 src="https://img.shields.io/badge/Booklidio Ecommerce Store (Under Construction)-blue?style=for-the-badge&logo=react&logoColor=12100E&logoSize=64">
+        </a>
+      <p>What better way to solve your issues than to code a solution yourself? This project is by far the largest project I will be tackling. It has a React/Tailwind frontend with an under construction Node.JS/MongoDB backend that I hope to complete at the end of 2025.</p>
       </div>
   </div>
 
